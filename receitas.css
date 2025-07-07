@@ -1,0 +1,48 @@
+body {
+  background-color: #fdeecd;
+  font-family: 'Segoe UI', sans-serif;
+  color: #493831;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #d24858;
+  color: white;
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+nav {
+  background-color: #ea8676;
+  text-align: center;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 2rem;
+}
+
+.receita {
+  background-color: #eab05e;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #493831;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
